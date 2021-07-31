@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
         <aws.java.sdk.v2.version>1.11.577</aws.java.sdk.v2.version>
-        <spring.boot.version>2.2.6.RELEASE</spring.boot.version>
+        <spring.boot.version>2.5.3</spring.boot.version>
         <org.zalando.aws.kms.version>5.1.2</org.zalando.aws.kms.version>
         <powermock.version>2.0.9</powermock.version>
         <smt-waiting.version>4.1</smt-waiting.version>
