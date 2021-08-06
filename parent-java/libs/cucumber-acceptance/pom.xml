@@ -17,7 +17,7 @@
     <name>${project.artifactId}</name>
 
     <properties>
-        <cucumber.version>6.10.4</cucumber.version>
+        <cucumber.version>6.11.0</cucumber.version>
     </properties>
 
     <build>

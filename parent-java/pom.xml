@@ -21,7 +21,7 @@
         <org.zalando.aws.kms.version>5.1.2</org.zalando.aws.kms.version>
         <powermock.version>2.0.9</powermock.version>
         <smt-waiting.version>4.1</smt-waiting.version>
-        <cucumber.version>6.10.4</cucumber.version>
+        <cucumber.version>6.11.0</cucumber.version>
         <sonar.exclusions>**/*Application.*,**/*Configuration.*,**/IT*.*,**/*Test.*,**/GenericHolder.*,**/Hooks.*</sonar.exclusions>
     </properties>
 
